@@ -1,2 +1,3 @@
-# njt-is601-f21-wk2
-Homework Assignment for Week 2
+# Name: Sebastian Fine
+## Class: IS601 - Fall 2021 Semester
+### Homework Assignment for Week 2
